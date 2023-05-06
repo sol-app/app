@@ -1,4 +1,6 @@
 ### MD 2 PDF
+MarkDown to PDF convertor, using nodejs.
+
 install:
 - first, `npm i` for 1 time to install dependencies
 
