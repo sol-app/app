@@ -1,0 +1,17 @@
+{
+  "name": "md-2-pdf",
+  "version": "1.0.0",
+  "description": "github @mosi-sol",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "mosi-sol",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "markdown-pdf": "^11.0.0",
+    "path": "^0.12.7"
+  }
+}
